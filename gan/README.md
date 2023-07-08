@@ -1,0 +1,1 @@
+This directory contains all of the GAN models Pu has been learning over time. Each model file contains the reference link to the model's paper page or the example code's page.
