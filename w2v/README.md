@@ -1,0 +1,1 @@
+This is the example code Pu wrote while learning the word2vec embeddings, Pu follows the Dive Into Deep Learning tutorial here: https://d2l.ai/chapter_natural-language-processing-pretraining/word-embedding-dataset.html
