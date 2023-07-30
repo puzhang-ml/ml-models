@@ -1,0 +1,1 @@
+Pu will pratice his Pytorch skills by writing lots of preliminary models in Pytorch inside this folder.
